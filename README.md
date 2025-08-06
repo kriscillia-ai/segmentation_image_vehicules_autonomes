@@ -35,6 +35,8 @@ Le cœur de ce projet repose sur une architecture **VGG16 U-Net**.
 ## Démonstration
 
 <img width="651" height="212" alt="image" src="https://github.com/user-attachments/assets/88d62ab2-ffd5-4a54-84f7-56c294cc4ccd" />
+<img width="671" height="218" alt="image" src="https://github.com/user-attachments/assets/4ce29a25-01cf-40f6-a3da-25b45be526fe" />
+<img width="523" height="240" alt="image" src="https://github.com/user-attachments/assets/4b855254-6034-4d8c-bf83-63d012143849" />
 
 
 ## Défis Relevés
